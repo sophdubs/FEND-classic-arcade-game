@@ -20,7 +20,7 @@ The player must try to reach the water without colliding with any bugs.
 
 
 ## Running the Game
--First, ensure to properly download the ZIP file to your computer.
+-First, ensure to properly download the ZIP file to your computer.\
 -Once this is complete, simply open index.html in your browser and the game is ready to play (provided you have addressed the Project Dependencies mentioned above).
 
 
